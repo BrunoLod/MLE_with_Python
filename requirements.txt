@@ -1,0 +1,9 @@
+pandas
+mlflow>=1.15.0
+tensorflow
+autokeras
+hyperopt
+optuna
+scikit-learn
+alibi
+alibi-detect
